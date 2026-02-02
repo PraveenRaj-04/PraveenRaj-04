@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **R T Praveenraj**
+## 👋 Hi, I'm **Praveenraj**
 
 💻 Full Stack Developer | ☕ Java | 🌐 Web | 🤖 AI Enthusiast  
 🚀 I build practical projects and learn by doing.
