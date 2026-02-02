@@ -46,7 +46,8 @@ REST APIs • JDBC • J2EE
 ### 🔧 Tools
 ![Git](https://img.icons8.com/color/48/git.png)
 ![GitHub](https://img.icons8.com/material-outlined/48/github.png)
-![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api.png)
+![Postman](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6fdc8799-1d39-4e61-9d93-c1089a542a07" />
+)
 ![Docker](https://img.icons8.com/color/48/docker.png)
 
 ---
