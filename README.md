@@ -14,21 +14,12 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Social & Professional Links
 
-<a href="https://www.linkedin.com/in/praveenraj-r-t-1504673" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-<a href="[https://www.youtube.com/@DYKSHORTS](https://youtube.com/@dykshorts?si=uujKi0qZeevHd-6n)" target="_blank">
-  <img src="https://img.icons8.com/color/48/youtube-play.png"/>
-</a>
-<a href="[https://www.instagram.com/praveenraj_rt](https://www.instagram.com/praveenraj_rt?igsh=YjVtdDFmaG01b2o3)" target="_blank">
-  <img src="https://img.icons8.com/color/48/instagram-new.png"/>
-</a>
-<a href="mailto:raj81192004@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail.png"/>
-</a>
-
+- 🔗 **LinkedIn**: [linkedin.com/in/praveenraj-r-t-1504673](https://www.linkedin.com/in/praveenraj-r-t-1504673)
+- 📺 **YouTube**: [https://www.youtube.com/@DYKSHORTS](https://youtube.com/@dykshorts?si=uujKi0qZeevHd-6n)
+- 📸 **Instagram**: [https://www.instagram.com/praveenraj_rt](https://www.instagram.com/praveenraj_rt?igsh=YjVtdDFmaG01b2o3)
+- 📧 **Email**: raj81192004@gmail.com
 
 ---
 
